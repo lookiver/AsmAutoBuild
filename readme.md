@@ -1,4 +1,4 @@
-# AsmBuild
+# AsmAutoBuild
 
 A minimalist Bash script to automate **NASM** assembly, linking, and execution. I built this to speed up my workflow while learning Assembly and Low-Level programming.
 
@@ -10,5 +10,5 @@ A minimalist Bash script to automate **NASM** assembly, linking, and execution. 
 
 ## Usage
 ```bash
-chmod +x asmBuild.sh
+chmod +x asmbuild.sh
 ./asmbuild.sh filename.asm
