@@ -11,4 +11,4 @@ A minimalist Bash script to automate **NASM** assembly, linking, and execution. 
 ## Usage
 ```bash
 chmod +x asmBuild.sh
-./asmBuild.sh filename.asm
+./asmbuild.sh filename.asm

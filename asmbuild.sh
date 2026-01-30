@@ -5,7 +5,7 @@ FILE=$1
 
 # 1. Check: Is the filename argument provided?
 if [ -z "$FILE" ]; then
-    echo "Error: Please provide a filename. Usage: ./asmBuild file.asm"
+    echo "Error: Please provide a filename. Usage: ./asmbuild file.asm"
     exit 1
 fi
 
